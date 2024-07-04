@@ -1,0 +1,24 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+#gameBoard {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+:root {
+  background-color: beige;
+}
+p {
+  font-size: 1.25rem;
+}
